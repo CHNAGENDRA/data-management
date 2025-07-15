@@ -1,0 +1,86 @@
+[
+    {
+        "serial": 5577,
+        "date": "2024-28-09",
+        "branch": "Dubai",
+        "course": "Emotional Intelligence",
+        "division": "Business",
+        "customer": "Basambh Group",
+        "csr": "Mohamad Osman",
+        "status": "Send to Lm",
+        "outlineShared": false,
+        "deadline": "2024-29-10"
+    },
+    {
+        "serial": 5577,
+        "date": "2024-28-09",
+        "branch": "Riyadh",
+        "course": "Call Center Sales Techniques",
+        "division": "Business",
+        "customer": "MAI Dubai LLC",
+        "csr": "Sarala Lakshmanan",
+        "status": "Confirmed by Lm",
+        "outlineShared": false,
+        "deadline": "2024-29-10"
+    },
+    {
+        "serial": 5577,
+        "date": "2024-28-09",
+        "branch": "Riyadh",
+        "course": "Project Management Professional (PMP)",
+        "division": "Project Management Professional (PMP)",
+        "customer": "MAI Dubai LLC",
+        "csr": "Sarala Lakshmanan",
+        "status": "Confirmed by Lm",
+        "outlineShared": false,
+        "deadline": "2024-29-10"
+    },
+    {
+        "serial": 5577,
+        "date": "2024-28-09",
+        "branch": "Riyadh",
+        "course": "Project Management Professional (PMP)",
+        "division": "Business",
+        "customer": "SAUC",
+        "csr": "Dania Hankir",
+        "status": "Confirmed by Lm",
+        "outlineShared": true,
+        "deadline": "2024-29-10"
+    },
+    {
+        "serial": 5577,
+        "date": "2024-28-09",
+        "branch": "Dubai",
+        "course": "Call Center Sales Techniques",
+        "division": "Business",
+        "customer": "SAUC",
+        "csr": "Dania Hankir",
+        "status": "Confirmed by Lm",
+        "outlineShared": true,
+        "deadline": "2024-29-10"
+    },
+    {
+        "serial": 5577,
+        "date": "2024-28-09",
+        "branch": "Dubai",
+        "course": "Project Management Professional (PMP)",
+        "division": "Business",
+        "customer": "SAUC",
+        "csr": "Mohamad Osman",
+        "status": "Confirmed by Lm",
+        "outlineShared": true,
+        "deadline": "2024-29-10"
+    },
+    {
+        "serial": 5577,
+        "date": "2024-28-09",
+        "branch": "Riyadh",
+        "course": "Project Management Professional (PMP)",
+        "division": "Business",
+        "customer": "SAUC",
+        "csr": "Dania Hankir",
+        "status": "Confirmed by Lm",
+        "outlineShared": true,
+        "deadline": "2024-29-10"
+    }
+]

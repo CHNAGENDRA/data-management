@@ -1,0 +1,20 @@
+.custom-toolbar {
+  display: flex;
+  align-items: center;
+  padding: 0 16px;
+  height: 64px;
+}
+
+.toolbar-title {
+  font-size: 20px;
+  font-weight: 600;
+  margin-left: 12px; /* space after menu icon */
+}
+
+.spacer {
+  flex: 1 1 auto;
+}
+
+button[mat-icon-button] {
+  margin-left: 8px;
+}
